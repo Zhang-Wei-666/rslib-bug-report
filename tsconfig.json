@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "skipLibCheck": true,
+    "paths": {
+      "pack-1": ["./packages/pack-1/src/index.ts"],
+      "pack-2": ["./packages/pack-2/src/index.ts"]
+    }
+  },
+}
