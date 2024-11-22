@@ -1,0 +1,13 @@
+{
+  "name": "@examples/express-plugin",
+  "private": true,
+  "scripts": {
+    "build": "rslib build"
+  },
+  "devDependencies": {
+    "@microsoft/api-extractor": "^7.47.12",
+    "@rslib/core": "^0.1.0",
+    "type-fest": "^4.27.0",
+    "typescript": "^5.6.3"
+  }
+}
