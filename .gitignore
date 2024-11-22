@@ -1,0 +1,11 @@
+.cache
+.DS_Store
+.idea
+
+*.log
+*.tgz
+
+node_modules
+coverage
+
+.eslintcache
