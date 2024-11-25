@@ -25,3 +25,7 @@ error   Error occurred in esm DTS generation
     at async Object.fn (file:///D:/GitHub/rslib-bug-report/node_modules/.pnpm/@rsbuild+core@1.1.4/node_modules/@rsbuild/core/dist/index.js:2420:76)
  ELIFECYCLE  Command failed with exit code 1.
 ```
+
+## 已解决
+
+https://github.com/web-infra-dev/rslib/issues/477#issuecomment-2497258829
